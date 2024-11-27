@@ -44,7 +44,18 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## Run the database
+```bash
+docker compose up
 
+```
+## Populate the Database
+```bash
+npx prisma db seed
+
+```
+
+# Then go to localhost:3000/api
 ## Run tests
 
 ```bash
