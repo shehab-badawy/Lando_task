@@ -55,7 +55,7 @@ npx prisma db seed
 
 ```
 
-# Then go to localhost:3000/api
+# Then go to [localhost:3000/api](localhost:3000/api)
 ## Run tests
 
 ```bash
